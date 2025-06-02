@@ -50,7 +50,7 @@
 > Repository for Embedded Machine Learning Course 
 **Tools:** TensorFlow Lite Micro, Arduino, python, C++
 
-#### [Advance-Embedded-systems](https://github.com/jusanchez6/Sistemas_embebidos_avanzados.git))
+#### [Advance-Embedded-systems](https://github.com/jusanchez6/Sistemas_embebidos_avanzados.git)
 > Repository of the development of code for the robocup
 **Tools:** ESP32-s3, IDF Espressif, FreeRTOs, C/C++ 
 
