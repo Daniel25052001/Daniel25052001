@@ -1,17 +1,15 @@
 <h2 align="left">Hi 👋! I'm Julián Sánchez</h2>
 
-<p align="left">🎓 I'm an Electronic Engineering student at the University of Antioquia, Colombia, with a strong focus on Embedded Systems, ARM microcontrollers, and Linux-based development. I design custom PCBs, develop firmware using RTOS, and integrate hardware-software systems for real-world applications including TinyML and Computer Vision.</p>
-
-<img align="right" height="150" src="https://media.tenor.com/WpgSYAYBpLkAAAAC/hacker.gif" />
+<p align="left">I'm an Electronic Engineering student at the University of Antioquia, Colombia, with a strong focus on Embedded Systems, ARM microcontrollers, and Linux-based development. I design custom PCBs, develop firmware using RTOS, and integrate hardware-software systems for real-world applications including TinyML and Computer Vision.</p>
 
 ---
 
-### 🚀 Specialization
+### 🚀 Good At:
 
 - 🔧 Embedded Systems Engineering (STM32, ESP32, ARM Cortex-M)
 - ⚙️ Real-Time Operating Systems (FreeRTOS, Zephyr)
-- 🧠 Embedded Machine Learning (TinyML, TensorFlow Lite Micro, Edge Impulse)
-- 🖼️ Embedded Computer Vision (OpenMV, OV7670)
+- 🧠 Embedded Machine Learning (TinyML, TensorFlow Lite Micro)
+- 🖼️ Embedded Computer Vision (OpenCV, YOLOv8, Roboflow)
 - 📐 PCB Design with KiCad
 - 🐧 Linux & Embedded Linux (U-Boot, Yocto, Device Tree)
 - 🧰 Firmware/Hardware Integration in Multi-disciplinary Projects
@@ -40,20 +38,21 @@
 
 ### 📂 Featured Projects
 
-#### 🔍 [ML-Embedded-Person-Detection](https://github.com/tuusuario/ML-Embedded-Person-Detection)
-> Person detection using a microcontroller (STM32) and OV7670 camera. Runs lightweight ML inference using TensorFlow Lite Micro.  
-**Tools:** STM32CubeMX, CMSIS-NN, FreeRTOS, TFLM
+#### [ML-Embedded-Egde-Computation](https://github.com/jusanchez6/INTERPERIA_SISTEMIC.git)
+> ML edge detection of different cases of danger using TensorFlow Lite in the Khadas Vim3.  
+**Tools:** Embbeded Linux, Khadas Vim3, TFL.
 
-#### 📡 [RTOS-Based-Industrial-Controller](https://github.com/tuusuario/RTOS-Based-Industrial-Controller)
-> Industrial sensor monitoring system with real-time task scheduling.  
-**Tools:** FreeRTOS, KiCad (4-layer PCB), UART, Modbus RTU
+#### [A smart watch usisng a RP2040](https://github.com/jusanchez6/MArchONs.git)
+> Simple project of a smart-watch using the RP2040 (ARM Cortex-M0+) with a TFT display 
+**Tools:** LVGL libray, RP2040, IMU, TFT display, SDK Raspberry pi pico. 
 
-#### 🖥️ [Custom-Linux-Board-Bringup](https://github.com/tuusuario/Custom-Linux-Board-Bringup)
-> Embedded Linux bootloader and kernel configuration for custom ARM Cortex-A board.  
-**Tools:** U-Boot, Yocto Project, Device Tree
+#### [Embbedded Machine Learning](https://github.com/jusanchez6/Embedded-Machine-Learning.git)
+> Repository for Embedded Machine Learning Course 
+**Tools:** TensorFlow Lite Micro, Arduino, python, C++
 
-#### 🧪 [Embedded-Vision-Tracker](https://github.com/tuusuario/Embedded-Vision-Tracker)
-> Visual object tracking using OpenMV Cam and real-time UART data reporting.
+#### [Advance-Embedded-systems](https://github.com/jusanchez6/Sistemas_embebidos_avanzados.git))
+> Repository of the development of code for the robocup
+**Tools:** ESP32-s3, IDF Espressif, FreeRTOs, C/C++ 
 
 ---
 
