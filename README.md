@@ -19,20 +19,32 @@
 
 ### 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo" />
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="30" alt="raspberrypi logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="30" alt="qt logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
+<div align="center">
+  <h2>🚀 Languages & Tools</h2>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
+    <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="Anaconda" />
+    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+    <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="Arduino" />
+    <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="30" alt="Raspberry Pi" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+    <img src="https://cdn.simpleicons.org/qt/41CD52" height="30" alt="Qt" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="Jupyter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
+  </p>
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jusanchez6&show_icons=true&locale=en" alt="Top Languages" />
+
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jusanchez6&show_icons=true&locale=en" alt="jusanchez6" /></p>
+  
 </div>
+
 
 ---
 
