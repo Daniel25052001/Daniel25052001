@@ -1,19 +1,21 @@
-<h2 align="left">Hi 👋! I'm Julián Sánchez</h2>
+<h2 align="left">Hi 👋! I'm Daniel Galvis</h2>
 
-<p align="left">I'm an Electronic Engineering student at the University of Antioquia, Colombia, with a strong focus on Embedded Systems, ARM microcontrollers, and Linux-based development. I design custom PCBs, develop firmware using RTOS, and integrate hardware-software systems for real-world applications including TinyML and Computer Vision.</p>
+<p align="left">
+I'm a Software Engineering student passionate about web development.  
+I focus on building complete applications — from backend APIs to responsive frontends and database design.  
+I’m currently looking for internship or junior opportunities to grow professionally and contribute to real-world projects.
+</p>
 
 ---
 
-### 🚀 Good At:
+### 🚀 What I Do
 
-- 🔧 Embedded Systems Engineering (STM32, ESP32, ARM Cortex-M)
-- ⚙️ Real-Time Operating Systems (FreeRTOS, Zephyr)
-- 🧠 Embedded Machine Learning (TinyML, TensorFlow Lite Micro)
-- 🖼️ Embedded Computer Vision (OpenCV, YOLOv8, Roboflow)
-- 📐 PCB Design with KiCad
-- 🐧 Linux & Embedded Linux (U-Boot, Yocto, Device Tree)
-- 🧰 Firmware/Hardware Integration in Multi-disciplinary Projects
-- 🗂️ Version Control with Git (GitHub/GitLab)
+- 🧠 **Backend Development:** RESTful APIs with Python (FastAPI, Flask) and Node.js (Express)
+- 🎨 **Frontend Development:** HTML, CSS, JavaScript, and frameworks like React
+- 🗃️ **Databases:** MySQL, PostgreSQL, and MongoDB
+- ⚙️ **Version Control:** Git and GitHub for collaborative projects
+- 🧰 **Software Practices:** Clean Code, MVC architecture, and modular design
+- 📈 **Career Goal:** Become a Full Stack Developer and work on scalable web applications
 
 ---
 
@@ -22,66 +24,58 @@
 <div align="center">
   <h2>🚀 Languages & Tools</h2>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
-    <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="Anaconda" />
-    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
-    <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="Arduino" />
-    <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="30" alt="Raspberry Pi" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-    <img src="https://cdn.simpleicons.org/qt/41CD52" height="30" alt="Qt" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-    <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="Jupyter" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   </p>
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jusanchez6&show_icons=true&locale=en" alt="Top Languages" />
-
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jusanchez6&show_icons=true&locale=en" alt="jusanchez6" /></p>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel25052001&show_icons=true&locale=en" alt="Top Languages" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel25052001&show_icons=true&locale=en" alt="Daniel25052001" /></p>
 </div>
-
 
 ---
 
 ### 📂 Featured Projects
 
-#### [ML-Embedded-Egde-Computation](https://github.com/jusanchez6/INTERPERIA_SISTEMIC.git)
-> ML edge detection of different cases of danger using TensorFlow Lite in the Khadas Vim3.  
-**Tools:** Embbeded Linux, Khadas Vim3, TFL.
+#### [API Student Management System](https://github.com/Daniel25052001/API-Student-Management)
+> REST API to manage student data (CRUD operations, authentication, and database connection).  
+**Tools:** Node.js, Express, MySQL, Postman.
 
-#### [A smart watch usisng a RP2040](https://github.com/jusanchez6/MArchONs.git)
-> Simple project of a smart-watch using the RP2040 (ARM Cortex-M0+) with a TFT display 
-**Tools:** LVGL libray, RP2040, IMU, TFT display, SDK Raspberry pi pico. 
+#### [Frontend Portfolio Website](https://github.com/Daniel25052001/Portfolio)
+> Personal portfolio with responsive design built with HTML, CSS, and JavaScript.  
+**Tools:** HTML5, CSS3, JavaScript, GitHub Pages.
 
-#### [Embbedded Machine Learning](https://github.com/jusanchez6/Embedded-Machine-Learning.git)
-> Repository for Embedded Machine Learning Course 
-**Tools:** TensorFlow Lite Micro, Arduino, python, C++
-
-#### [Advance-Embedded-systems](https://github.com/jusanchez6/Sistemas_embebidos_avanzados.git)
-> Repository of the development of code for the robocup
-**Tools:** ESP32-s3, IDF Espressif, FreeRTOs, C/C++ 
+#### [Full Stack App – Task Manager](https://github.com/Daniel25052001/TaskManagerApp)
+> Complete application with backend API and frontend interface to manage daily tasks.  
+**Tools:** React, Node.js, Express, MongoDB.
 
 ---
 
 ### 📫 Contact Me
 
 <div align="left">
-  <a href="https://www.instagram.com/jeg_erjulian?igsh=MTZ0aG10Nndzc2IyeA%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:julian.sanchez6@udea.edu.co" target="_blank">
+  <a href="mailto:daniel.galvis@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/juli%C3%A1n-mauricio-s%C3%A1nchez-ceballos-a6823a325/" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my repositories for hands-on embedded systems, hardware integration, and Linux-based development projects.*
+⭐ *Thanks for visiting! I’m always open to learning new technologies and collaborating on interesting projects.*
