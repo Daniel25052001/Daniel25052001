@@ -44,21 +44,6 @@ I’m currently looking for internship or junior opportunities to grow professio
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel25052001&show_icons=true&locale=en" alt="Daniel25052001" /></p>
 </div>
 
----
-
-### 📂 Featured Projects
-
-#### [API Student Management System](https://github.com/Daniel25052001/API-Student-Management)
-> REST API to manage student data (CRUD operations, authentication, and database connection).  
-**Tools:** Node.js, Express, MySQL, Postman.
-
-#### [Frontend Portfolio Website](https://github.com/Daniel25052001/Portfolio)
-> Personal portfolio with responsive design built with HTML, CSS, and JavaScript.  
-**Tools:** HTML5, CSS3, JavaScript, GitHub Pages.
-
-#### [Full Stack App – Task Manager](https://github.com/Daniel25052001/TaskManagerApp)
-> Complete application with backend API and frontend interface to manage daily tasks.  
-**Tools:** React, Node.js, Express, MongoDB.
 
 ---
 
